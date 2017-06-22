@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maiyaporn/angular2-wizard"
+    "url": "https://github.com/daasalbion/angular2-wizard"
   },
   "author": {
-    "name": "Maiyaporn Phanich",
-    "email": "p.maiyaporn@gmail.com"
+    "name": "Derlis Arguello",
+    "email": "derlisarguello01@gmail.com"
   },
   "keywords": [
     "angular2-wizard",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maiyaporn/angular2-wizard/issues"
+    "url": "https://github.com/daasalbion/angular2-wizard/issues"
   },
   "main": "./dist/index.js",
   "dependencies": {
