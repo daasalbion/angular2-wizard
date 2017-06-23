@@ -1,6 +1,6 @@
 {
-  "name": "angular2-wizard",
-  "version": "0.2.2",
+  "name": "angular2-wizard-daas",
+  "version": "0.0.1",
   "scripts": {
     "build": "ngc -p tsconfig.json",
     "lint": "tslint src/**/*.ts",
