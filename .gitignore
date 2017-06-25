@@ -1,9 +1,9 @@
-dist/*
+#dist/*
 *.ngfactory.ts
 *.ngsummary.json
 
 # Coverage
-coverage/*
+#coverage/*
 
 # Node
 node_modules/*
